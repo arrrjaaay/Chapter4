@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel", "ConsoleApplication1\GetVowel.csproj", "{38683445-B763-499B-94B4-9B756B6069F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "ConsoleApplication2\MultiplicationTable.csproj", "{2C5580B9-F74F-4210-B305-1F42DA78062E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{38683445-B763-499B-94B4-9B756B6069F9}.Debug|x86.Build.0 = Debug|x86
 		{38683445-B763-499B-94B4-9B756B6069F9}.Release|x86.ActiveCfg = Release|x86
 		{38683445-B763-499B-94B4-9B756B6069F9}.Release|x86.Build.0 = Release|x86
+		{2C5580B9-F74F-4210-B305-1F42DA78062E}.Debug|x86.ActiveCfg = Debug|x86
+		{2C5580B9-F74F-4210-B305-1F42DA78062E}.Debug|x86.Build.0 = Debug|x86
+		{2C5580B9-F74F-4210-B305-1F42DA78062E}.Release|x86.ActiveCfg = Release|x86
+		{2C5580B9-F74F-4210-B305-1F42DA78062E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb
