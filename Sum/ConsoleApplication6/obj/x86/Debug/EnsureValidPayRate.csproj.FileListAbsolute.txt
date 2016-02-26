@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+C:\Users\eahscs\Desktop\Chapter4\Sum\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
